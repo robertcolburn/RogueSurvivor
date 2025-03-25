@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1cc4ee7c-9256-46fb-b328-427e53e94fda" width="300">
+  <img src="https://github.com/user-attachments/assets/17ab1fe9-6171-4c73-8768-13767bed24d2" width="300">
 </div>
 
 # Rogue Survivor
