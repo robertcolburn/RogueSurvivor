@@ -1,0 +1,12 @@
+StatementMacros: ['UPROPERTY', 'UFUNCTION', 'UCLASS', 'USTRUCT', 'UENUM', 'UINTERFACE', 'GENERATED_BODY', 'DECLARE_DELEGATE', 'DECLARE_DELEGATE_OneParam']
+BasedOnStyle: Microsoft
+IndentCaseLabels: true
+AlwaysBreakTemplateDeclarations: Yes
+PointerAlignment: Left
+AllowShortFunctionsOnASingleLine: InlineOnly
+Standard: c++20
+IncludeCategories:
+  - Regex: '.*\.generated.h'
+    Priority: 2
+  - Regex: '.*'
+    Priority: 1
